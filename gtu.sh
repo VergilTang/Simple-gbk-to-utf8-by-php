@@ -12,7 +12,7 @@ do
         h)
             echo "参数:"
             echo "-h        show this help"
-            echo "-f        from charset default gbk"
+            echo "-f        from charset;default gbk"
             echo "-t        to charset default utf-8"
     esac        
 done
