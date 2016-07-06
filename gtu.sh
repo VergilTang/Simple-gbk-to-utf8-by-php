@@ -13,7 +13,7 @@ do
             echo "参数:"
             echo "-h        show this help"
             echo "-f        from charset;default gbk"
-            echo "-t        to charset default utf-8"
+            echo "-t        to charset;default utf-8"
     esac        
 done
 IFSbak=$IFS
